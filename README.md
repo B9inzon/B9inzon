@@ -24,12 +24,7 @@
   <a href="https://wa.link/ipmfk4" target="_blank" >
     <img src="https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
-    <!-- <a href="https://tomasbohngs.vercel.app/" target="_blank" >
-    <img src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
-  <!-- <a href="" target="_blank" >
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>   -->
+    
   <p>✉ brandonpinzont@gmail.com </p>
 </div>
 
