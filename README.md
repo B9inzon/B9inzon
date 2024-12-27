@@ -24,7 +24,8 @@
   <a href="https://wa.link/ipmfk4" target="_blank" >
     <img src="https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
-    
+  <br/>
+  <br/>
   <p>✉ brandonpinzont@gmail.com </p>
   <p>💼 https://brandonpinzonportfolio.vercel.app/ </p>
 </div>
