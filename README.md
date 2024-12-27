@@ -26,6 +26,7 @@
   </a>
     
   <p>✉ brandonpinzont@gmail.com </p>
+  <p>💼 https://brandonpinzonportfolio.vercel.app/ </p>
 </div>
 
 ### 🛠🧰 Editor de código
