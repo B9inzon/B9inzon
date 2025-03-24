@@ -10,7 +10,7 @@
 <br/>
 <div id="header" align="center" >
   <p align="center">
-  Actualmente estoy perfeccionando mis habilidades técnicas. Soy tecnólogo en análisis y desarrollo de sistemas de información. Soy graduado del bootcamp de SoyHenry como Fullstack Web Developer, con especialidad en frontend. Durante el programa, profundicé en tecnologías clave como React, Node.js, NextJs, CSS, HTML, TypeScript y JavaScript. La programación es mi pasión, y siempre busco nuevas oportunidades para expandir mis conocimientos y mantenerme al día con las tendencias tecnológicas. Estoy disponible para colaborar en proyectos que me permitan crecer profesionalmente y adquirir nuevas experiencias. Me emociona poder conectar con otros desarrolladores y contribuir con mis conocimientos y aprendizajes.
+  Actualmente estoy perfeccionando mis habilidades técnicas. Soy tecnólogo en análisis y desarrollo de sistemas de información y realicé el bootcamp de SoyHenry como Fullstack Web Developer, con especialidad en frontend. Durante el programa, profundicé en tecnologías clave como React, Node.js, NextJs, CSS, HTML, TypeScript y JavaScript. La programación es mi pasión, y siempre busco nuevas oportunidades para expandir mis conocimientos y mantenerme al día con las tendencias tecnológicas. Estoy disponible para colaborar en proyectos que me permitan crecer profesionalmente y adquirir nuevas experiencias. Me emociona poder conectar con otros desarrolladores y contribuir con mis conocimientos y aprendizajes.
   </p>
   <h3>
     Conectemos 🤝
